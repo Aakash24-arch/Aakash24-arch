@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aakash24-arch
 - 👀 I’m interested in web development & blockchain
-- 🌱 I’m currently learning web3
+- 🌱 I’m currently learning android devlopment
 -
-- 📫 How to reach me aakashv3456@gmail.com
+- 📫 How to reach me aakashverma3456@gmail.com
 
 <!---
 Aakash24-arch/Aakash24-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
