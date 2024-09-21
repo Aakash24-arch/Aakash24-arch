@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aakash24-arch
-- 👀 I’m interested in web development & blockchain
+- 👀 I’m interested in a  android development & blockchain
 - 🌱 I’m currently learning android devlopment
 -
 - 📫 How to reach me aakashverma3456@gmail.com
